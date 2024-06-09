@@ -2,7 +2,7 @@
 name = "tabby-web"
 version = "1.0.0"
 description = ""
-authors = ["Eugeny <e@ajenti.org>""Gyarbij <gyarbij@pm.me>"]
+authors = ["Gyarbij <gyarbij@pm.me>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
